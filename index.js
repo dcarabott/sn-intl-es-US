@@ -3,7 +3,7 @@ global.IntlPolyfill = require('./lib/core.js');
 
 // Require all locale data for `Intl`. This module will be
 // ignored when bundling for the browser with Browserify/Webpack.
-require('./locale-data/jsonp/es-US.js');
+require('./locale-data/jsonp/en.js');
 
 // hack to export the polyfill as global Intl if needed
 if (!global.Intl) {

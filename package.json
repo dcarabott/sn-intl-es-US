@@ -1,5 +1,5 @@
 {
-  "name": "sn-intl-es-us",
+  "name": "sn-intl-en",
   "version": "1.0.0",
   "description": "Polyfill the ECMA-402 Intl API (except collation)",
   "main": "index.js",
